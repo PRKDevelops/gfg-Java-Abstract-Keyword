@@ -17,8 +17,7 @@ abstract class A
     }
 }
 
-public class AbstractDemo 
-{
+public class Geeks {
     public static void main(String args[]) 
     {
         Scanner sc=new Scanner (System.in);
